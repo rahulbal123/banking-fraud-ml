@@ -1,0 +1,25 @@
+pip install -r requirements
+
+
+---
+
+## 📊 Business Problem
+
+Detect fraudulent credit card transactions in near real-time using multiple data sources while ensuring data quality and model monitoring.
+
+---
+
+## 🔥 Production Considerations Covered
+
+- Schema validation
+- Data drift detection
+- Model versioning
+- Latency measurement
+- Logging simulation
+- Feature store simulation
+
+---
+
+## 📌 Author
+
+Machine Learning Engineer | Banking Analytics | ETL + ML Integration

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pkl
+*.log
+*.parquet
+*.csv
+*.json
+*.xml
+*.pdf
+.ipynb_checkpoints/
+.env
